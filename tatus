@@ -1,0 +1,36 @@
+[33mcommit 461f732aa09db13c0e284b934022b599c7ba61f7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Juan Sebastian <jquiroga@horbathdev.com>
+Date:   Wed Nov 23 11:42:04 2022 -0500
+
+    seungo commit
+
+[1mdiff --git a/blog.html b/blog.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..de2c09f[m
+[1m--- /dev/null[m
+[1m+++ b/blog.html[m
+[36m@@ -0,0 +1,10 @@[m
+[32m+[m[32m<html>[m
+[32m+[m[32m    <head>[m
+[32m+[m[32m        <title>Titulo del post</title>[m
+[32m+[m[32m        <link rel="stylesheet" href="css/estilos.css">[m
+[32m+[m[32m    </head>[m
+[32m+[m[32m    <body>[m
+[32m+[m[32m        <h1>Este es mi blog</h1>[m
+[32m+[m[32m        <p>Este es el parrafo inicial</p>[m
+[32m+[m[32m    </body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/css/estilos.css b/css/estilos.css[m
+[1mnew file mode 100644[m
+[1mindex 0000000..84162cb[m
+[1m--- /dev/null[m
+[1m+++ b/css/estilos.css[m
+[36m@@ -0,0 +1,6 @@[m
+[32m+[m[32mbody[m
+[32m+[m[32m{[m
+[32m+[m[32m    color: blue;[m
+[32m+[m[32m    text-align: center;[m
+[32m+[m[32m    font-family: "Arial";[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
