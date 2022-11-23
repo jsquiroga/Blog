@@ -1,5 +1,5 @@
 mi nombre es juan
 
-Estoy ahciendo un curso
+Estoy haciendo un curso
 
 Esta es una practica de git
