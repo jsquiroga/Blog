@@ -1,13 +1,20 @@
 body
 {
-    color: blue;
+    color: red;
     text-align: center;
     font-family: Courier;
+}
+
+#cabecera
+{
+    background: #33a;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white
+    font-weight: bold;
 }
 
 #container
 {
     width:70%;
     border:1px solid #000
-    
 }
