@@ -4,4 +4,6 @@ Estoy haciendo un curso
 
 master 1
 
+master 2
+
 Esta es una practica de git
